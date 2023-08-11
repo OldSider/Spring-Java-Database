@@ -17,16 +17,16 @@ public class DbServices {
       null,
       "João Vitor Sampaio",
       "joao5vitorsampaio@hotmail.com",
-      "71993263706",
-      "86232749545",
+      "99999999999",
+      "99999999999",
       "male",
       "31/07/2001",
       "1234",
-      "40715366",
-      "Terezinha",
-      "Salvador",
-      "Bahia",
-      "13C"
+      "ZipCode",
+      "District",
+      "City",
+      "State",
+      "HouseNumber"
     );
 
     projectRepository.saveAll(Arrays.asList(t1));
