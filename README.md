@@ -1,4 +1,4 @@
-# RESTful API development with Java, Spring Boot, Mock and Jest
+# RESTful API development with Java, Spring Boot, Mock and Junit
 
 - The project "RESTful API Development with Java, Spring Boot, Mock and Jest" aims to create a robust, scalable and high-quality RESTful API using key technologies such as Java, Spring Boot, Mock and Jest. The application will provide services through a RESTful interface, allowing interaction with resources and data efficiently and securely.
 
