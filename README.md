@@ -20,7 +20,7 @@
 
 -  The use of mocks allows you to simulate the behavior of system components or modules during unit tests. This is critical to ensuring the reliability and consistency of the code.
 
-### Jest:
+### Junit:
 
 - Jest is a widely used JavaScript testing framework for unit testing, integration, and other types of testing in JavaScript-based applications, including front-end and back-end code.
 
